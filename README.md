@@ -15,7 +15,7 @@
 1.  **克隆仓库** (如果适用)
 
     ```bash
-    git clone <repository_url>
+    git clone <https://github.com/XXX-mixlab/AI_battle_space.git>
     cd AI_battle_space
     ```
 
